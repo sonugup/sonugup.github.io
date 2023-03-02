@@ -8,6 +8,8 @@ I use React in this Project
 
 deploy command is
 
+### `npm run deploy`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
