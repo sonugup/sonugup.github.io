@@ -6,6 +6,8 @@ I use React in this Project
 
 ### This project deploy on Github
 
+deploy command is
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
