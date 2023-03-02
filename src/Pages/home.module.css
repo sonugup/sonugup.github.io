@@ -1,0 +1,30 @@
+.type {
+    transition: .8s ;
+    font-family:Calibri Light;
+    color:#0000;
+  
+    background:
+
+      linear-gradient(-90deg,#fcfcfc 5px,#0000 0) 10px 0,
+      linear-gradient(#eef1f1 0 0) 0 0;
+    background-size:calc(var(--n)*2ch) 300%;
+    -webkit-background-clip:padding-box,text;
+    background-clip:padding-box,text;
+    background-repeat:no-repeat;
+    animation: 
+     b .7s infinite steps(1),   
+     t calc(var(--n)*.2s) steps(var(--n)) forwards;
+  }
+  .type:hover{ color: white; 
+    transition: .8s ;
+   font-weight: 500;
+
+}
+
+
+  @keyframes t{
+    from {background-size:0 300%}
+  }
+  @keyframes b{
+    50% {background-position:0 -100%,0 0}
+  }
