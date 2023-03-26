@@ -8,6 +8,44 @@ export const nav = [
 export const products = [
   {
     id: 1,
+    title: "Bath & Body Works",
+    src: "mybathnbody.png",
+    projectType: "COLABORATIVE  PROJECT ",
+    skillUsed: "HTML | CSS | JAVASCRIPT | React.js | Redux | Chakra UI | Axios | Node.js | Express | Mongone",
+    color: "hotpink",
+    liveLink: "https://mybathnbody.vercel.app/",
+    gitLink: "https://github.com/Khalidshah12/somber-shape-4789",
+    description:
+      " Bath & Body Works brings you Buy 3 Get 1 on your favorite Body Care products. Shop from the most loved fragrances of mists, lotions, creams, & much more. Quick & Secure Checkout. 100% Original. Easy Returns. Secured Payment. Limited Period Offer. Reasonable Price.",
+    l1: `■ Fixed Navbar`,
+    l2: "■ Authentication",
+    l3: "■ Searching",
+    l4: "■ Sorting",
+    l5: "■ Filtering",
+    l6: "■ Payment",
+    Rl1: "♦ Product Page is my responsibility in this project and I always try to maintaining and updating the project on daily basis and make motivated to my team members.",
+  },
+  {
+    id: 2,
+    title: "KITCHEN CORNER",
+    src: "kindmeal.png",
+    projectType: "COLABORATIVE  PROJECT ",
+    skillUsed: "HTML | CSS | JAVASCRIPT | React.js | Redux | Chakra UI | Axios",
+    color: "hotpink",
+    liveLink: "https://kindmeal-clone-website.vercel.app/",
+    gitLink: "https://github.com/priyankadora20/Kindmeal_clone_website",
+    description:
+      " Kindmeal is a Food  store for multipal Food and you can see and order it with locations. This is the project that was collaboratively done by a team of 5 members and completed in just 7 days.",
+    l1: `■ Fixed Navbar`,
+    l2: "■ Authentication",
+    l3: "■ Searching",
+    l4: "■ Sorting",
+    l5: "■ Filtering",
+    l6: "■ Payment",
+    Rl1: "♦ Footer, Recipes Page & Single Recipes Page is my responsibility in this project and I always try to maintaining and updating the project on daily basis and make motivated to my team members.",
+  },
+  {
+    id: 3,
     title: "Licious",
     src: "https://d2407na1z3fc0t.cloudfront.net/Slider/banner_6245400231e84",
     projectType: "COLABORATIVE  PROJECT ",
@@ -26,7 +64,7 @@ export const products = [
     Rl1: "♦ Navbar, Login & Signup, Sidebar, Studio Page & Team Management is my responsibility in this project and I always try to maintaining and updating the project on daily basis and make motivated to my team members.",
   },
   {
-    id: 2,
+    id: 4,
     title: "SEPHORA",
     src: "shefora.png",
     projectType: "COLABORATIVE  PROJECT ",
@@ -43,25 +81,9 @@ export const products = [
 
     Rl1: "♦ Makeup, Hair, Skincare,Tools & Brushes, etc, Team management is my responsibility in this project and I always try to maintaining and updating the project on daily basis and make motivated to my team members.",
   },
+  
   {
-    id: 3,
-    title: "You Tube-Clone",
-    src: "youtub.png",
-    projectType: "INDIVIDUAL  PROJECT ",
-    skillUsed: "HTML | CSS | JAVASCRIPT",
-    color: "Red",
-    liveLink: "https://cosmic-ganache-fb7431.netlify.app/",
-    gitLink:
-      "https://github.com/masai-course/sonu_fw17_0247/tree/master/unit-3/sprint-3/day-1/assignments/youtub",
-    description:
-      "YouTube is a website designed for sharing video. Millions of users around the world have created accounts on the site that allow them to upload videos that anyone can watch. Every minute of every day, more than 35 hours of video is uploaded to YouTube.This is theproject that was individually done and completed in just 1 days.",
-    l1: "■ Searching",
-    l2: "■ Single Page",
-    l3: "■ Video Playing",
-    Rl1: "♦ In this project I would try to clone the You Tube App and I truly love this website because it is one of the  website that gives us lots of information whatever we need.",
-  },
-  {
-    id: 4,
+    id: 5,
     title: "Weather App",
     src: "weather.png",
     projectType: "INDIVIDUAL  PROJECT ",
@@ -79,26 +101,7 @@ export const products = [
 
     Rl1: "♦ This project I make mid of the my study I would try to implement it by mapping also.",
   },
-  {
-    id: 5,
-    title: "Calculator App",
-    src: "calculator.png",
-    projectType: "INDIVIDUAL  PROJECT ",
-    skillUsed: "HTML | CSS | JAVASCRIPT",
-    color: "White",
-    liveLink:
-      "https://course.masaischool.com/storage/assignments/10864/problem/25267/user/fw17_0247/0FavLNChrLhc4BZ3gsdDlZt8QpOr11Bw88Z5oLYu.html",
-    gitLink:
-      "https://github.com/masai-course/sonu_fw17_0247/blob/master/unit-2/sprint-3/index.html",
-    description:
-      "A calculator is a device that performs arithmetic operations on numbers. Basic calculators can do only addition, subtraction, multiplication and division.",
-    l1: "■ Adding",
-    l2: "■ Subtracting",
-    l3: "■ Multiplying",
-    l4: "■ Dividing",
-
-    Rl1: "♦ This project I make during my begning of the study I would try to giving differt look for this calculator-app.",
-  },
+  
   {
     id: 6,
     title: "The Indian EXPRESS",
@@ -113,6 +116,6 @@ export const products = [
     l1: "■ Responsible Size",
     l2: "■ Sweet Looking",
     l3: "■ Positivity",
-    Rl1: "♦ This project make in 5 days  of time and I put my all focus to making it.",
+    Rl1: "♦ This is My induvisil Project. This project make in 5 days  of time and I put my all focus to making it.",
   },
 ];
