@@ -16,7 +16,6 @@
   //   l3: "■ Video Playing",
   //   Rl1: "♦ In this project I would try to clone the You Tube App and I truly love this website because it is one of the  website that gives us lots of information whatever we need.",
   // },
-
   
   // {
   //   id: 5,
