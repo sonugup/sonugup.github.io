@@ -34,7 +34,6 @@
   //   l2: "■ Subtracting",
   //   l3: "■ Multiplying",
   //   l4: "■ Dividing",
-
   //   Rl1: "♦ This project I make during my begning of the study I would try to giving differt look for this calculator-app.",
   // },
   
