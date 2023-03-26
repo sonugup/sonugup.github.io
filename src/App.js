@@ -13,6 +13,7 @@ function App() {
       pt={12}
       bg="rgb(34,39,51)"
     >
+     
       <Navbar />
       <AllRoutes />
     </Box>

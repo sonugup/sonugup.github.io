@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Image, ListItem, Text, UnorderedList } from "@chakra-ui/react";
+import { Box, Image, ListItem, Text, UnorderedList,useColorModeValue,Button,useColorMode } from "@chakra-ui/react";
 import { HashLink as Link } from "react-router-hash-link";
 import { nav } from "../db.js";
 
@@ -21,6 +21,7 @@ const Navbar = () => {
       top="0px"
       borderBottom="1px solid white"
       boxShadow="rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px"
+      
     >
       <UnorderedList
         listStyleType="none"
@@ -41,6 +42,7 @@ const Navbar = () => {
           <ListItem  display="flex" ><Text borderBottom="2px solid rgb(82,94,101)" _hover={{borderBottom:"2px solid white",transition:".4s"}}>Resume</Text><span> <Image w="15px" bg="white" borderRadius="50%" src="download1.svg"/></span></ListItem>
         </a>
       </UnorderedList>
+      
     </Box>
   );
 };
