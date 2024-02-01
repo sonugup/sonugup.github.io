@@ -20,7 +20,9 @@ const Home = () => {
             letterSpacing={13}
             color="rgb(210,223,205)"
           >
-            SONU GUPTA
+            // SONU GUPTA
+              
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer+!;Fullstack+Developer+!;Coder+Lover+!;Problem+Solver+!" >
           </Text>
 
           <Text
