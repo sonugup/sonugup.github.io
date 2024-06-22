@@ -67,13 +67,14 @@ const Contact = () => {
             </Text>
           </Link>
 
-          <Link to="https://twitter.com/SonuGup84350236" target="_blank">
+          <Link to="https://x.com/SonuGup84350236" target="_blank">
             <Text>
               <FaTwitterSquare color="white" />
             </Text>
           </Link>
         </Box>
 
+              //https://twitter.com/SonuGup84350236
         <Box mt="50px">
           <HashLink to="#home">
             <Text>
